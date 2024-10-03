@@ -1,0 +1,21 @@
+@font-face {
+    font-family: abhaya;
+    src: url(../fonts/AbhayaLibre-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: badscript;
+    src: url(../fonts/BadScript-Regular.ttf);
+}
+
+h1{
+    font-family: abhaya;
+}
+
+.bad-script{
+    font-family: badscript;
+}
+
+.black{
+    color: #000;
+}
